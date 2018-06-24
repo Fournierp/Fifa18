@@ -4,7 +4,7 @@ This is a repository where I store all my Data Science projects: data analysis, 
 
 # Table of Contents
 
--   [Fifa](https://github.com/Fournierp/DataScience/blob/master/Fifa/Fifa%2018%20Value-Wage%20Model/Fifa%2018%20Value-Wage%20Model.md)
+-   [Fifa](https://github.com/Fournierp/Fifa18#fifa)
 
 ## Fifa
 
