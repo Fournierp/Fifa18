@@ -1,11 +1,3 @@
-# DataScience
-
-This is a repository where I store all my Data Science projects: data analysis, artificial intelligence etc.
-
-# Table of Contents
-
--   [Fifa](https://github.com/Fournierp/Fifa18#fifa)
-
 ## Fifa
 
 Using the Fifa 18 Player Statistics [dataset](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset). <br/>
